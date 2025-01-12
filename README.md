@@ -2,24 +2,24 @@
 # <font color='orange'>**Projet Python Netflix**</font>
 Ce projet s'inscrit dans une analyse approfondie des données Netflix à l'aide de Python. Le code inclut l'importation des données, leur nettoyage, l'analyse statistique, ainsi que la visualisation des résultats obtenus. Grâce à ces outils, il sera possible d'explorer les tendances et les comportements des utilisateurs sur la plateforme Netflix.
 ### Sujet 1 :  IMPACT DU BUDGET SUR LA POPULARITÉ 
-#### 1. Budget vs Score
-#### 2. Budget vs Revenu
-#### 3. Budget vs Nombre de votes
+ - Budget vs Score
+ - Budget vs Revenu
+ - Budget vs Nombre de votes
 
 ### Sujet 2 : INFLUENCE GÉOGRAPHIQUE SUR LA POPULARITÉ
-#### 1. Pays vs Nombre de votes
-#### 2. Pays vs Revenu 
-#### 3. Pays vs Score 
+ - Pays vs Nombre de votes
+ - Pays vs Revenu 
+ - Pays vs Score 
 
 ### Sujet 3 : Quel est le genre le plus populaire sur Netflix, et quels films de ce genre, absents de la plateforme, pourraient être intéressants à envisager ?
-#### 1. Analyse des genres présents sur Netflix
-#### 2. Analyse du top 10 des films du genre "History", indépendamment de la plateforme.
+  - Analyse des genres présents sur Netflix
+  - Analyse du top 10 des films du genre "History", indépendamment de la plateforme.
 
 ### SUJET 4 : Quels genres sont les plus populaires et à quels moments ?
-#### 1. Top 10 genres les plus populaires en diagramme en secteurs
-#### 2. Genres les plus populaires en termes de visionnements par mois
-#### 3. Nombre d'heures visionnées par semaine
-#### 4. L’évolution des vues moyenne par mois sans considérer le genre
+  - Top 10 genres les plus populaires en diagramme en secteurs
+  - Genres les plus populaires en termes de visionnements par mois
+  - Nombre d'heures visionnées par semaine
+  - L’évolution des vues moyenne par mois sans considérer le genre
 
 ### Conclusion : Performance de Netflix par rapport à d'autres plateformes, selon le score moyen de leurs films sur Rotten Tomatoes
 
