@@ -1,6 +1,6 @@
 
 # <font color='orange'>**Projet Python Netflix**</font>
-Ce projet s'inscrit dans une analyse approfondie des données Netflix à l'aide de Python. Le code inclut l'importation des données, leur nettoyage, l'analyse statistique, ainsi que la visualisation des résultats obtenus. Grâce à ces outils, il sera possible d'explorer les tendances et les comportements des utilisateurs sur la plateforme Netflix.
+Analyse approfondie des données Netflix à l'aide de Python. Le code inclut l'importation des données, leur nettoyage, l'analyse statistique, ainsi que la visualisation des résultats obtenus. Grâce à ces outils, il sera possible d'explorer les tendances et les comportements des utilisateurs sur la plateforme Netflix.
 ### Sujet 1 :  IMPACT DU BUDGET SUR LA POPULARITÉ 
  - Budget vs Score
  - Budget vs Revenu
