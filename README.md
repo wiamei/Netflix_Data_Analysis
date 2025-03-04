@@ -2,14 +2,14 @@
 # <font color='orange'>**Projet Python Netflix**</font>
 Analyse approfondie des données Netflix à l'aide de Python. Le code inclut l'importation des données, leur nettoyage, l'analyse statistique, ainsi que la visualisation des résultats obtenus. Grâce à ces outils, il sera possible d'explorer les tendances et les comportements des utilisateurs sur la plateforme Netflix.
 ### Sujet 1 :  IMPACT DU BUDGET SUR LA POPULARITÉ 
- - Budget vs Score
- - Budget vs Revenu
- - Budget vs Nombre de votes
+ - Impact sur le score
+ - Impact sur le revenu
+ - Impact sur le nombre de vue
 
 ### Sujet 2 : INFLUENCE GÉOGRAPHIQUE SUR LA POPULARITÉ
- - Pays vs Nombre de votes
- - Pays vs Revenu 
- - Pays vs Score 
+ - Nombre de votes par pays
+ - Revenu par pays 
+ - Score par pays
 
 ### Sujet 3 : Quel est le genre le plus populaire sur Netflix, et quels films de ce genre, absents de la plateforme, pourraient être intéressants à envisager ?
   - Analyse des genres présents sur Netflix
