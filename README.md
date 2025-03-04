@@ -23,6 +23,14 @@ Analyse approfondie des données Netflix à l'aide de Python. Le code inclut l'i
 
 ### Conclusion : Performance de Netflix par rapport à d'autres plateformes, selon le score moyen de leurs films sur Rotten Tomatoes
 
+## <font color='yellow'>**Importation des données**</font> 
+
+1- Pour ce faire, il faut télécharger kaggle (avec pip install kaggle) et le API token de Kaggle \
+2- Allez sur kaggle.com, créez un compte \
+3- Puis téléchargez votre propre API token : cliquez sur votre profil -> Settings -> API -> Create new API token \
+4- Ceci téléchargera alors une copie kaggle.json, il faut placer ce fichier dans la section Windows : C:\Users\<nom_utilisateur>\.kaggle\
+5- (ou pour Mac/Linux : /home/<nom_utilisateur>/.kaggle/)
+
 
 
 # Informations sur les Dataframes 
